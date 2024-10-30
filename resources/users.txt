@@ -1,0 +1,2 @@
+Ania|password456|ania@example.com|1234567899
+Dominic|password123|dominic@example.com|1234567888
